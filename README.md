@@ -28,7 +28,7 @@ We allow for:
 - missing return values
 - flash mintable
 - approval race protected
-- any decimal
+- decimals >=6 and <=18
 
 Tokens without a decimal field are carefully selected by whether or not they imply a decimal of 18.
 ___
